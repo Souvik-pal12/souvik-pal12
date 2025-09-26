@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Java**, **Python**, and **Data Structures**
 - 💻 I love creating projects with **HTML, CSS, JavaScript**
-- 📫 Reach me at: [your@email.com](mailto:souvikpal@email.com)
+- 📫 Reach me at: [souvikPal@email.com](mailto:souvikpal@email.com)
 
 ---
 
